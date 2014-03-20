@@ -1,5 +1,5 @@
-# Twentytwelve LESS Child Theme
-### Sample Twentytwelve child theme using LESS.
+# Twentytwelve WordPress LESS Child Theme
+### Sample WordPress Twentytwelve child theme using LESS.
 
 Demo code used for the WordPress NYC Meetup Presentation on 3/18/2014:
 
