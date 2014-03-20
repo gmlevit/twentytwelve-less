@@ -1,0 +1,16 @@
+// header styles for site title and description
+
+.site-title a {
+    color: @site-title-color;
+}
+
+// combine these 2
+.site-header {
+    h1, h2 {
+        .links(@site-title-color, @site-title-color-hover);
+    }
+
+    h2 {
+        color: @site-description-color;
+    }
+}
